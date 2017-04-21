@@ -67,7 +67,7 @@ $newline 			= "\n";
 $fileSplit 			= '_';
 $timeStamp 			= time();
 $filePath 			= realpath('./').'/';
-$webPath 			= '/ffmpeg_web_gui/';
+$webPath 			= '/';
 $ffmpegCommand 		= '/usr/bin/ffmpeg'; // x264, xbix, ora, gsm, lame, faac, swscale, 0.5
 $qt_faststart 		= '/usr/bin/qt-faststart';
 
